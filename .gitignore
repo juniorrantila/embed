@@ -1,0 +1,15 @@
+.DS_Store
+a.*
+build
+perf.data
+perf.data.old
+test.c
+test.he
+playground/*
+!playground/README.md
+node_modules
+subprojects/*
+!subprojects/*.wrap
+bun.lockb
+downloads
+package-lock.json
